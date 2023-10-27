@@ -3,7 +3,7 @@
 ```
 We're a team of first-year college students that participate in many hackathons across the United States!
 ```
-Visit us at  [tenderloin.tech](tenderloin.tech)
+Visit us at  [tenderloin.tech](https://tenderloin.tech)
 <!--
 
 **Here are some ideas to get you started:**
