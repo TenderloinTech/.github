@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://trentwil.es/a/216pNF2f5X.png)
+
 ```
 We're a team of first-year college students that participate in many hackathons across the United States!
 ```
